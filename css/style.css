@@ -119,3 +119,18 @@
     color: white;
 }
 /* main section */
+/* hotel offer section */
+.hotelOffer{
+    margin-top: 70px;
+}
+.texts{
+    margin-right: 117px;
+}
+.topLeftPhoto{
+    margin-right: 12px;
+}
+.bottomPhoto{
+    display: block;
+    margin-top: 16px;
+}
+/* hotel offer section */
