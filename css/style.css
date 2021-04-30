@@ -134,3 +134,38 @@
     margin-top: 16px;
 }
 /* hotel offer section */
+/* footer */
+.footer{
+    background-color: #121212;
+}
+.footerBox{
+    width: 828px;
+    padding-top: 49px;
+}
+.footerBox h3{
+    font-size: 24px;
+    font-family: 'Poppins-Bold';
+    color: white;
+    margin-bottom: 22px;
+}
+.footerBox h5{
+    font-size: 14px;
+    font-family: 'Poppins-Medium';
+    color: white;
+}
+.socials{
+    margin-top: 56px;
+}
+.socials img{
+    margin-right: 21px;
+}
+.footer p{
+    font-size: 14px;
+    font-family: 'Poppins-Medium';
+    color: white;
+    padding: 10px 0 32px 0;
+}
+.footer p a{
+    color: #5863F8;
+}
+/* footer */
